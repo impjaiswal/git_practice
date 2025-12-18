@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from feature branch"
+echo "bug fixed in v1.1"
