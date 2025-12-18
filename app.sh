@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from Ubuntu Server!"
+echo "Hello from Ubuntu Server hello from github"
