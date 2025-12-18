@@ -1,0 +1,20 @@
+name: Shell Script CI
+
+on:
+  push:
+    branches:
+      - main
+      - feature
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run shell script
+        run: |
+          chmod +x app.sh
+          ./app.sh
