@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "bug fixed in v1.1"
+
+echo "Production fix applied"
+
