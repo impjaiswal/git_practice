@@ -2,3 +2,4 @@
 
 echo "Production fix applied"
 
+DEV build
