@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Production hotfix applied"
+echo "Production fix applied"
 
